@@ -5,7 +5,7 @@ import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 
-@WebServlet("/pippo")
+@WebServlet("/pippo/")
 public class Helloworld extends HttpServlet {
     /**
 	 * 
